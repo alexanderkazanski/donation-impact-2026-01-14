@@ -51,11 +51,11 @@ const metrics: MetricCardProps[][] = [
 
     // 2026-01-14
     [
-        { date: 'January 14 2026', icon: Droplets, label: "Cholesterol", value: "279" },
-        { date: 'January 14 2026', icon: Activity, label: "Iron Count", value: "14.9" },
-        { date: 'January 14 2026', icon: Gauge, label: "Blood Pressure", value: "129/93" },
-        { date: 'January 14 2026', icon: HeartPulse, label: "Pulse", value: "58 bpm" },
-        { date: 'January 14 2026', icon: Thermometer, label: "Temperature", value: "97.4°F" },
+        { date: 'January 14, 2026', icon: Droplets, label: "Cholesterol", value: "279" },
+        { date: 'January 14, 2026', icon: Activity, label: "Iron Count", value: "14.9" },
+        { date: 'January 14, 2026', icon: Gauge, label: "Blood Pressure", value: "129/93" },
+        { date: 'January 14, 2026', icon: HeartPulse, label: "Pulse", value: "58 bpm" },
+        { date: 'January 14, 2026', icon: Thermometer, label: "Temperature", value: "97.4°F" },
     ],
 
     // 2026-03-11
